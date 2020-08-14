@@ -5,3 +5,7 @@ end
 def using_shift(array, element)
   array.shift(element)
 end
+
+def using_unshift(array, element)
+  array.unshift(element)
+end
