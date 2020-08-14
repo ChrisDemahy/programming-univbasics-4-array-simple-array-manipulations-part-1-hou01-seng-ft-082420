@@ -5,4 +5,3 @@ end
 def using_shift(array, element)
   array.shift(element)
 end
-
